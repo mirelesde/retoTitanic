@@ -1,15 +1,24 @@
 # retoTitanic
----
-## Miembros
-**César Alejandro Cruz Salas**
-**Rodrigo de la Garza Martínez**
-**Francisco José Joven Sánchez**
-**David Emiliano Mireles Cárdenas**
-**Marlon Brandon Romo López**
-**Mario Javier Soriano Aguilera**
+
 ---
 
-## Primera fasse: 18 de agosto de 2023
+## Miembros
+
+**César Alejandro Cruz Salas**
+
+**Rodrigo de la Garza Martínez**
+
+**Francisco José Joven Sánchez**
+
+**David Emiliano Mireles Cárdenas**
+
+**Marlon Brandon Romo López**
+
+**Mario Javier Soriano Aguilera**
+
+---
+
+#### **Primera fase**: 18 de agosto de 2023
 Nuestro notebook contiene lo siguiente:
 * Preparación inicial (cargar datos, importar librerías)
 * Análisis exploratorio de las variables
