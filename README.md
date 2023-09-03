@@ -27,3 +27,11 @@ Nuestro notebook contiene lo siguiente:
     * Indagación de correlación entre las variables
     * Identificación de columnas con datos faltantes
     * Explroación de outliers
+#### **Segunda fase**: 1 de septiembre de 2023
+Nuestro notebook contiene lo siguiente:
+* Reporte Titanic-Hablamos de los modelos de prediccion que usamos
+    * Gradient Boosting
+    * K-Nearest Neighbor
+    * Neural Network
+    * Random Forest
+* Carpeta metodos-Estan los notebooks de los codigos
