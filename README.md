@@ -3,7 +3,7 @@
 ---
 
 ## En que consiste
-Este repositorio contiene archivos utilizados para resolver la problemática de "Titanic - Machine Learning from Disaster" en la página de Kaggle https://www.kaggle.com/competitions/titanic/submissions .
+Este repositorio contiene archivos utilizados para resolver la problemática de "Titanic - Machine Learning from Disaster" en la página de Kaggle https://www.kaggle.com/competitions/titanic/overview .
 En dicho enlace se encuentra la descripción acerca de en qué consiste el reto, las reglas para participar, los datasets necesarios, entre otros.
 Pero en pocas palabras la problemática consiste en crear un modelo de predicción que pueda clasificar binariamente si las personas a bordo sobreviven o no en base a los demás datos del dataset.
 
