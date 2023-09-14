@@ -48,6 +48,7 @@ Nuestro notebook contiene lo siguiente:
    *Reporte Titanic Final
    *Carpeta Py Data 1 y 2-Se encuentra el codigo para los modelos
     con la los datos modificados 1 y 2 asi como los csv necesarios.
-    *Carpeta Py Data 3-Se encuentra el codigo para los modelos
+   
+   *Carpeta Py Data 3-Se encuentra el codigo para los modelos
      con la los datos modificados 3 y con los csv necesarios.
 
