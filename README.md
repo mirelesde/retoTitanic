@@ -44,7 +44,7 @@ Nuestro notebook contiene lo siguiente:
 * Carpeta metodos-Estan los notebooks de los codigos
 
 #### **Tercera fase**: 14 de septiembre de 2023
-*Carpeta de tercera Fase, contiene lo siguiente:
+* Carpeta de tercera Fase, contiene lo siguiente:
    * Reporte Titanic Final
    
    * Carpeta Py Data 1 y 2-Se encuentra el codigo para los modelos
